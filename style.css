@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+    color:purple;
+}
+body {
+    font-family: sans-serif;
+}
+
+
+h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #92E3FF;
+}
+
+ul {
+    border: 10px double lightblue;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.link-text:hover {
+    color: rebeccapurple;
+
+}
+
+.link-text {
+    color: rgb(125, 192, 215);
+}
